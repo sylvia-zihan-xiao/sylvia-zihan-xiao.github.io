@@ -1,0 +1,20 @@
+cv:
+  name: Zihan Xiao
+  label: M.Sc. student in Language Science and Technology
+  location: Saarbrücken, Germany
+
+  sections:
+    Education:
+      - institution: Saarland University
+        location: Saarbrücken, Germany
+        area: Language Science and Technology
+        studyType: M.Sc.
+        start_date: 2026
+        end_date: present
+
+      - institution: Southwest University
+        location: Chongqing, China
+        area: English
+        studyType: B.A.
+        start_date: 2018
+        end_date: 2023
